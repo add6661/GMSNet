@@ -8,7 +8,7 @@
 ## Installation
 You can create a new environment with the following command if you're using conda as your virtual environment:
 ```bash
-git clone https://github.com/wjf/GMSNet.git
+git clone https://github.com/add6661/GMSNet.git
 cd GMSNet
 conda create -n GMSNet python=3.9
 conda activate GMSNet
@@ -80,4 +80,5 @@ If you find the GMSNet code useful, please consider citing
 }
 ```
 -->
+
 
