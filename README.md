@@ -67,7 +67,7 @@ python -m evaluation.scannet1500 --scannet_path </data/ScanNet1500> --output </d
 ```
 
 
-
+<!--
 ## Citing GMSNet
 If you find the GMSNet code useful, please consider citing
 ```
@@ -79,4 +79,5 @@ If you find the GMSNet code useful, please consider citing
   publisher={IEEE}
 }
 ```
+-->
 
